@@ -2,7 +2,7 @@
 A short description is given below. A more thorough explanation of what the program does can be found in _CSCI235-Project.pdf_ file. Also, you can find screenshots of the program and UML class diagram here.
 
 ## Description
-Creating an animation about Nazarbayev University (NU) students getting grades, and having a graduation ceremony, by using object-oriented design principles. In simple words, professors are walking around leaving assessments with random grades on a map. Meanwhile, the students are walking around the same map, collecting nearby assessments. Those, who manage to score 100 points or above, stop collecting assessments. When all students 
+Creating an animation about Nazarbayev University (NU) students getting grades, and having a graduation ceremony, by using object-oriented design principles. In simple words, professors are walking around leaving assessments with random grades on a map. Meanwhile, the students are walking around the same map, collecting nearby assessments. Those, who manage to score 100 points or above, stop collecting assessments. When all students get 100 points or more, the graduation ceremony starts.
 
 The students and professors may have 5 main states. 
 - In _Rest_ state a person does nothing and stays in one place.
